@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on <img style="width: 30px; height:25px;" src="https://www.svgrepo.com/show/374144/typescript.svg"/>
+🔭 I’m currently working on <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
 ![Artwork](/gitartwork.svg)
