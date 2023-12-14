@@ -1,4 +1,4 @@
-### HELLO THERE, THIS IS MD. SHAKURUR RAHMAN
+### Hello there, this is MD. SHAKURUR RAHMAN
 
 <!--
 **ShakurUrRahman/ShakurUrRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
