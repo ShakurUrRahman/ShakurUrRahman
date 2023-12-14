@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on ![github](/images/icon.png)
+🔭 I’m currently working on ![<img src="https://www.svgrepo.com/show/374144/typescript.svg"/>]
 
 ![Artwork](/gitartwork.svg)
