@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on <img style="width: 30px; padding: 10px 15px 10px 8px;" src="https://www.svgrepo.com/show/374144/typescript.svg"/>
+🔭 I’m currently working on <img style="width: 30px; height:8px;" src="https://www.svgrepo.com/show/374144/typescript.svg"/>
 
 ![Artwork](/gitartwork.svg)
