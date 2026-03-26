@@ -6,11 +6,11 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shakur.netlify.app-8B5CF6?style=for-the-badge)](https://shakur.netlify.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakururrahman)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakururrahman@gmail.com)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=ShakurUrRahman&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ShakurUrRahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakururrahman)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-shakurur__rahman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shakurur_rahman)
 
 </div>
 
