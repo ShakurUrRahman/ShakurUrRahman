@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=172f59&text=Md.%20Shakurur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Deep%20diving%20into%20the%20full%20stack%20%E2%80%94%20building%20Next.js%20solutions%20that%20defy%20gravity.&descAlignY=53&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=172f59&text=Md.%20Shakurur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Architecting%20scalable%2C%20high-performance%20full-stack%20systems%20for%20a%20modern%20web.&descAlignY=53&descSize=16" />
 </div>
 
 <div align="center">
