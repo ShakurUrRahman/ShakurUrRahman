@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Md.%20Shakurur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Project%20at%20a%20Time&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Md.%20Shakurur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Architecting%20scalable%2C%20high-performance%20full-stack%20systems%20for%20a%20modern%20web.&descAlignY=58&descSize=16" />
 </div>
 
 <div align="center">
