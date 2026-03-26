@@ -58,8 +58,8 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
 
 **Databases & Backend Services**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -133,7 +133,7 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
       <h3 align="center">SR Portfolio</h3>
       <div align="center">
         <a href="https://shakur.netlify.app" target="_blank">
-          <img src="https://res.cloudinary.com/dfephjb1i/image/upload/w_600,f_webp,q_auto/Screenshot_2026-03-13_225242_dpmou8_wthdwu.png" width="100%" alt="Portfolio"/>
+          <img src="https://res.cloudinary.com/dfephjb1i/image/upload/w_600,f_webp,q_auto/v1774005710/Screenshot_2026-03-20_172130_ixkxr9.png" width="100%" alt="Portfolio"/>
         </a>
         <br/><br/>
         <p>Space-themed horizontal scroll SPA with a hidden admin CMS, server-rendered SEO project pages, custom cursor, and live Supabase content management.</p>
