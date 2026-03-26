@@ -161,7 +161,7 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShakurUrRahman&theme=tokyonight&hide_border=true&background=0D0B1E&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShakurUrRahman&theme=tokyonight&hide_border=true&background=0D0B1E&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=C8BEF0&sideLabels=C8BEF0&dates=C8BEF0)](https://git.io/streak-stats)
 
 </div>
 
