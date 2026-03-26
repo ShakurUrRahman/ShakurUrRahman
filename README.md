@@ -154,8 +154,8 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShakurUrRahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=8B5CF6&icon_color=8B5CF6&text_color=C8BEF0&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakurUrRahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=8B5CF6&text_color=C8BEF0"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShakurUrRahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=8B5CF6&icon_color=8B5CF6&text_color=C8BEF0&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShakurUrRahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=8B5CF6&text_color=C8BEF0&langs_count=8"/>
 
 </div>
 
