@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=172f59&text=Md.%20Shakurur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Architecting%20scalable%2C%20high-performance%20full-stack%20systems%20for%20a%20modern%20web.&descAlignY=53&descSize=16" />
+  <img src="https://raw.githubusercontent.com/ShakurUrRahman/my-portfolio/main/public/banner.jpg" alt="Md. Shakurur Rahman - Full Stack Developer Banner" width="100%" />
 </div>
 
 <div align="center">
