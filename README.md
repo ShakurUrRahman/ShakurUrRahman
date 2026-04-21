@@ -126,7 +126,7 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
         <a href="https://github.com/ShakurUrRahman/next-drive-storeit">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://next-drive-storeit.vercel.app">
+        <a href="https://next-driveit.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logoColor=white"/>
         </a>
       </div>
