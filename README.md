@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShakurUrRahman/my-portfolio/main/public/1774629454781.jpg" alt="Md. Shakurur Rahman - Full Stack Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ShakurUrRahman/ShakurUrRahman/main/public/1774629454781.jpg" alt="Md. Shakurur Rahman - Full Stack Developer Banner" width="100%" />
 </div>
 
 <div align="center">
