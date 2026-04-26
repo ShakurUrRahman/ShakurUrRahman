@@ -133,17 +133,17 @@ I craft **clean, purposeful digital experiences** — from pixel-perfect UIs to 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">SR Portfolio</h3>
+      <h3 align="center">Smart Inventory & Order Management</h3>
       <div align="center">
-        <a href="https://shakur.netlify.app" target="_blank">
-          <img src="https://res.cloudinary.com/dfephjb1i/image/upload/w_600,f_webp,q_auto/v1774005710/Screenshot_2026-03-20_172130_ixkxr9.png" width="100%" alt="Portfolio"/>
+        <a href="https://smart-inventory-biz.vercel.app" target="_blank">
+          <img src="https://res.cloudinary.com/dfephjb1i/image/upload/v1776092933/Screenshot_2026-04-13_165339_xtltjp.png" width="100%" alt="Smart Inventory & Order Management System"/>
         </a>
         <br/><br/>
-        <p>Space-themed horizontal scroll SPA with a hidden admin CMS, server-rendered SEO project pages, custom cursor, and live Supabase content management.</p>
-        <a href="https://github.com/ShakurUrRahman/my-portfolio">
+        <p>Enterprise-grade project with Next.js frontend and Express/MongoDB backend. Features a four-tier RBAC system, product approval workflows, granular category permissions, and a full TypeScript middleware suite.</p>
+        <a href="https://github.com/ShakurUrRahman/smart-inventory-frontend">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://shakur.netlify.app">
+        <a href="https://smart-inventory-biz.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logoColor=white"/>
         </a>
       </div>
